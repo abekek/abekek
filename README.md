@@ -13,8 +13,8 @@ I am Alibek, an international student from Kazakhstan, and an aspiring Machine L
 - ⚡ Hobbies : 🥋 Martial arts, 🎸 trying to play guitar and 📚 reading 
 
 <a href="https://github.com/abekek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
-<a href="https://github.com/abekek/">
+<!-- <a href="https://github.com/abekek/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek&layout=compact" />
-</a>
+</a> -->
