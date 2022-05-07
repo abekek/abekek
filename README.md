@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=abekek)
+
 ### Hi there 👋
 
-I am Alibek, an international student from Kazakhstan 🇰🇿, and an aspiring Machine Learning/Software Engineer.
+I am Alibek, an international student from Kazakhstan, and an aspiring Machine Learning/Software Engineer.
 
 - 👨‍🎓 I'm currently studying Computer Science and Business @Lehigh University.
 - 🔬 I'm currently working on my paper about Deep Learning in Piezoresponse Force Microscopy.
@@ -9,3 +11,5 @@ I am Alibek, an international student from Kazakhstan 🇰🇿, and an aspiring 
 
 - 📫 Reach out to me : [LinkedIn](https://www.linkedin.com/in/abekek/)
 - ⚡ Hobbies : 🥋 Martial arts, 🎸 trying to play guitar and 📚 reading 
+
+![Alibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abekek&count_private=true)
