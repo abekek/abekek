@@ -12,6 +12,9 @@ I am Alibek, an international student from Kazakhstan, and an aspiring Machine L
 - 📫 Reach out to me : [LinkedIn](https://www.linkedin.com/in/abekek/)
 - ⚡ Hobbies : 🥋 Martial arts, 🎸 trying to play guitar and 📚 reading 
 
-![Alibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abekek)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/abekek/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/abekek/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek" />
+</a>
