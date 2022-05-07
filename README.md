@@ -16,5 +16,5 @@ I am Alibek, an international student from Kazakhstan, and an aspiring Machine L
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/abekek/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek&layout=compact" />
 </a>
