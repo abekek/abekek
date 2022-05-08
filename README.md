@@ -16,9 +16,9 @@ I am Alibek, an international student from Kazakhstan, and an aspiring Machine L
 - ✏️ My Blog in Russian: [Abekek Notes](https://t.me/abekek_notes)
 
 <a href="https://github.com/abekek/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abekek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/abekek/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abekek&layout=compact" />
 </a>
